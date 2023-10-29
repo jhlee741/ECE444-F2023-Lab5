@@ -1,1 +1,8 @@
 # John Lee - Lab 5
+
+## The Pros and Cons of TDD
+Test driven development(TDD) is a widely used software development methodology because of its myriad of benefits. Some of its main benefits are high quality code, easier team collaboration and faster debugging. While TDD is overwhelmingly beneficial to developers, there are a few downsides to this methodology. The main downsides of TDD are high initial overhead as well as the skill requirement that developers may not have.
+
+To go further on the benefits, TDD generally produces high quality code because every function that you write will have a corresponding test. This allows you to identify potential bugs sooner and gives you assurance that what you did is correct, if you have a dependency. In a similar way, TDD enables easier team collaboration by creating a strict set of rules that each team member abides by. This means that if developers are working on individual parts of a whole project, they can be confident that the problem isn’t in their section but rather in where the individual parts come together. Finally, TDD leads to faster debugging as it forces you to test incrementally as you develop. When you break down one problem into smaller pieces to test, you are able to get to the root of the bug faster.
+
+Now for the potential downsides of TDD. What gets most developers is the high overhead that TDD requires to start a project. It is especially hard to continue developing in this way because you do not get to see the benefits until much later in the development process. Further, TDD introduces a whole other skill set for a developer that they may not have. This adds to the startup overhead and is another reason why TDD may not be adopted.
